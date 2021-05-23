@@ -17,8 +17,5 @@ document.addEventListener("DOMContentLoaded", () => {
     del.addEventListener('click', (e) => {
       li.remove(e)
     })
-
-    })
-
-
+  })
 })
